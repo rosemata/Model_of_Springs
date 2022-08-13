@@ -4,7 +4,7 @@
 
 - define stretching a rubber in second order differential equation using symbols mass, gravity, and stretch coefficient 
 
-- make animation with 20 frames with pendulum depending on thickness of rubeer band hanging on 200 grams mass
+- make animation with 20 frames with pendulum depending on thickness of ruber band hanging on 200 grams mass
 
 - use frames of the animation to use interact feature
 
