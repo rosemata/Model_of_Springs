@@ -2,7 +2,7 @@
 
 # What I learned
 
-- define second order differential equation using symbols mass, gravity, and stretch coefficient
+- define stretching a rubber in second order differential equation using symbols mass, gravity, and stretch coefficient 
 
 - make animation with 20 frames with pendulum depending on thickness of rubeer band hanging on 200 grams mass
 
@@ -10,14 +10,6 @@
 
 - model a car suspension mechanism when hit a pothole or bump in the road
 
-1. Stretching Rubber
-Consider a rubber band suspended from the ceiling with a mass attached to it. The independent variable is time t and we want to model the height of the mass by y(t). The problem has three parameters:
-  1. the mass m,
-  2. the gravitational constant g, and 
-  3. 3. the stretch coefficient s.
-
-All three parameters are positive numbers.
-The second order differential equation which governs the height of the mass is
 
 # Assignment 1
 
